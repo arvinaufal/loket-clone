@@ -72,7 +72,7 @@ This project is a functional clone of Loket.com, built for educational purposes 
 #### 2. Set up the project:
   + Install the required packages
     ```bash
-      composer i
+      npm i
     ```
   + Add a `.env` file, and fill the following keys below:
     ```bash
